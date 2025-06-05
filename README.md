@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This repository has been archived. In April 2024, the JAC Intranet was relocated to the MoJ Intranet.  
+> For the current codebase, see https://github.com/ministryofjustice/intranet/
+
 # JAC Intranet
 
 WordPress project for the Judicial Appointments Commission intranet.
